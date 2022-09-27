@@ -37,7 +37,7 @@ button {
   text-align: center;
   vertical-align: middle;
   font-size: 18px;
-  width: 300px;
+  width: 350px;
   font-weight: 700;
   line-height: 20px;
   padding: 14px 12px 12px 12px;
@@ -1002,6 +1002,46 @@ button:hover,
 }
 .button.button-web:hover,
 .button.button-web:focus {
+  filter: brightness(90%);
+}
+
+/* Delivery Driving */
+.button.button-car > img {
+  filter: invert(100%);
+}
+.button.button-car {
+  color: #ffffff;
+  background-color: #a354e4;
+}
+.button.button-car:hover,
+.button.button-car:focus {
+  filter: brightness(90%);
+}
+
+/* Shift Signup */
+.button.button-hand > img {
+  filter: invert(100%);
+}
+.button.button-hand {
+  color: #ffffff;
+  background-color: #448b4a;
+}
+.button.button-hand:hover,
+.button.button-hand:focus {
+  filter: brightness(90%);
+}
+
+/* Volunteer Form */
+.button.button-chat > img {
+  filter: invert(100%);
+  scale: 125%;
+}
+.button.button-chat {
+  color: #ffffff;
+  background-color: #6d212e;
+}
+.button.button-chat:hover,
+.button.button-chat:focus {
   filter: brightness(90%);
 }
 
