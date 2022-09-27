@@ -218,9 +218,9 @@ hr {
 50% (default): True circle
 */
 .avatar {
-  width: 128px;
-  height: 128px;
+  width: 192px;
+  height: 192px;
   object-fit: cover;
   background-position: center;
-  border-radius: 50%;
+  /*border-radius: 80%;*/
 }

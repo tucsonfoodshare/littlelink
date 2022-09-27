@@ -998,7 +998,6 @@ button:hover,
 .button.button-web {
   color: #ffffff;
   background-color: #000000;
-  border: 1px solid #FFFFFF;
 }
 .button.button-web:hover,
 .button.button-web:focus {
