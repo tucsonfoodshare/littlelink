@@ -222,5 +222,5 @@ hr {
   height: 192px;
   object-fit: cover;
   background-position: center;
-  /*border-radius: 80%;*/
+  border-radius: 20%;
 }
